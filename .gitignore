@@ -1,0 +1,28 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and IDEs
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Application runtime data
+data/
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
