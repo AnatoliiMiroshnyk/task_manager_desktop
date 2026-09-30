@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Qt](https://img.shields.io/badge/PySide6-Desktop_GUI-41CD52?logo=qt&logoColor=white)](https://doc.qt.io/qtforpython-6/)
-[![Tests](https://github.com/AnatoliiMiroshnyk/taskflow-desktop/actions/workflows/tests.yml/badge.svg)](https://github.com/AnatoliiMiroshnyk/taskflow-desktop/actions/workflows/tests.yml)
+[![Tests](https://github.com/AnatoliiMiroshnyk/task_manager_desktop/actions/workflows/tests.yml/badge.svg)](https://github.com/AnatoliiMiroshnyk/task_manager_desktop/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A modern desktop task manager with a PySide6 interface, a versioned FastAPI REST API, SQLAlchemy persistence, SQLite storage, background network workers, automated tests, and GitHub Actions CI.
